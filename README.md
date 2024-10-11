@@ -5,6 +5,5 @@
 
 <div>
   <a href="https://github.com/gustacamara">
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=gustacamara&hide=stars,issues,contribs&theme=dark&show_icons=true"/>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacamara&theme=dark&layout=compact"/>
+  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=gustacamara&hide=stars,issues,contribs&theme=dark&show_icons=true"/>
 </div>
