@@ -2,6 +2,7 @@
 
 - 🧉 Fun fact: I love mate
 - 📟 The first website developed by me: ![Mr. Paper](https://github.com/gustacamara/Site-Web-Mr.Paper)
+- 🚂 [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
 
 <div>
   <a href="https://github.com/gustacamara">
