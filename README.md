@@ -1,8 +1,8 @@
-## Aooooba there 👋
+## Hey there, I'm Gusta👋
 
-- 🧉 Fun fact: I love mate
-- 📟 The first website developed by me: ![Mr. Paper](https://github.com/gustacamara/Site-Web-Mr.Paper)
-- 🚂 [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
+-  Frontend developer
+-  Actually focusing in Typescript, React, Tailwind, ShadCN and related technologies.
+-  [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
 
 <div>
   <a href="https://github.com/gustacamara">
