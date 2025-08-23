@@ -11,6 +11,6 @@
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacamara&theme=transparent&layout=compact"/>
   
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,c,ts,js,html,css,react,java,python,mysql,nodejs,figma,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=docker,git,c,ts,js,html,css,react,java,python,mysql,nodejs,figma,tailwind,vite,haskell,flask,linux" />
   </a>
 </div>
