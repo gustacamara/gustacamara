@@ -1,7 +1,7 @@
 ## Hey there, I'm Gusta👋
 
 -  Fullstack developer
--  Actually focusing in Typescript and Java.
+-  I'm currentily focusing on Typescript and Java.
 -  [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
 -  [Task-timer](https://gustacamara.github.io/task-timer/) to improve your productivity
 -  Looking for an internship.
