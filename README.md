@@ -1,10 +1,8 @@
 ## Hey there, I'm Gusta👋
 
+-  Check out my [Portfolio](https://gustacamara.github.io/gusta.me/)
 -  Fullstack developer
--  I'm currentily focusing on Typescript and Java.
--  [Focus Theme](https://github.com/RUSHGGZ/focus-theme) for better productivity in JetBrains IDEs and available as a plugin.
--  [Hardware and web application](https://github.com/gustacamara/py-ui) for controlling model railway layouts.
--  [Task-timer](https://gustacamara.github.io/task-timer/) to improve your productivity
+-  I'm currentily focusing on Data and Java.
 -  Looking for an internship.
 
 <div>
