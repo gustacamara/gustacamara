@@ -7,6 +7,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask,c,cs,haskell,r,ts,react,nodejs,mysql,postgres,docker,git,linux)](https://skillicons.dev)
 
-### 🧠 Skills graph
+### Skills graph
 
 <img src="./assets/skills-graph.svg" alt="3D graph of my skills" width="100%"/>
