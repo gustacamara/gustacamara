@@ -7,6 +7,6 @@
 
 <div>
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,c,ts,js,html,css,react,java,python,mysql,nodejs,figma,tailwind,vite,haskell,flask,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,git,c,ts,react,java,python,mysql,nodejs,haskell,flask,linux" />
   </a>
 </div>
