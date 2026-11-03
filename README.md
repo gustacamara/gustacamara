@@ -1,9 +1,9 @@
 ## Hey there, I'm Gusta👋
 
 - Check out my [Portfolio](https://gustacamara.github.io/gusta.me/)
-- Fullstack developer
-- I'm currently focusing on Data and Java.
-- Looking for an internship.
+- My specialist in Graph's 
+- I'm currently focusing on AI, ML and Graphs
+- Looking for an Data internship.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask,c,cs,haskell,r,ts,react,nodejs,mysql,postgres,docker,git,linux)](https://skillicons.dev)
 
